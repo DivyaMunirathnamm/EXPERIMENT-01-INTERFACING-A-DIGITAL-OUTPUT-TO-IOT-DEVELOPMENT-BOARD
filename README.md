@@ -98,7 +98,7 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 
 ## STM 32 CUBE PROGRAM
 
-```
+```.c
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
