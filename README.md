@@ -528,15 +528,24 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 ```
+
 ## OUTPUT
 # RELAY OFF
+
 <img width="720" height="1600" alt="WhatsApp Image 2026-05-05 at 1 27 44 PM" src="https://github.com/user-attachments/assets/bc2217ee-cfbd-4e8f-8081-a37d6e130f74" />
+
 # RELAY ON
+
 <img width="720" height="1600" alt="WhatsApp Image 2026-05-05 at 1 27 45 PM" src="https://github.com/user-attachments/assets/a7681452-0971-4e08-aa03-a497175d2785" />
+
 # RELAY OFF
+
 <img width="720" height="1600" alt="WhatsApp Image 2026-05-05 at 2 10 17 PM" src="https://github.com/user-attachments/assets/fbc15bd2-1882-479e-a26c-79bc32d22a0c" />
+
 # RELAY ON
+
 <img width="720" height="1600" alt="WhatsApp Image 2026-05-05 at 2 10 17 PM (1)" src="https://github.com/user-attachments/assets/66dd9222-5d5a-4d12-ba5e-835944a11082" />
-## Result
+
+# Result
 
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
